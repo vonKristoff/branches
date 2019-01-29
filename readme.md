@@ -18,4 +18,4 @@ Work in `js/main` as usual
 * `ENV variables` are available, see `npm run production` and in `js/main.js`. Also `rollup.config.js` detects `ENV` and `uglifies` where applicable.
 * [eslint](http://eslint.org/docs/user-guide/configuring) check the manual for any issues with ES6
 
----
+update
